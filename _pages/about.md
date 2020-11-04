@@ -4,26 +4,35 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+Biography.
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+## Links
 
-## Features
+-[Discord](https://discord.gg/HzEJWy52sF)
+-[Instagram](https://instagram.com/blackvslight/)
+-[Facebook](https://www.facebook.com/blackvslight/)
+-[Youtube](https://www.youtube.com/channel/UCXnHRyz5zdX2uS0G_0g1U0g)
+-[Twitter](https://www.twitter.com/blackvslight/)
+-[Reddit](https://www.reddit.com/user/blackvslight)
+-[Pleroma](https://blob.cat/blackvslight)
+-[Mastodon](https://mstdn.social/invite/AxZLzmDK)
+-[PixelFed](https://pixelfed.blob.cat/blackvslight)
+-[PeerTube](https://open.tube/video-channels/blackvslightvideo/videos)
+-[GNUSocial](https://gnusocial.net/blackvslight)
+-[DevART](https://www.deviantart.com/blackvslight)
+-[GitHub](https://github.com/blackvslight)
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+## Multistream
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+**[Restream.io:](https://restream.io/join/vE0JV)**
+-[Twitch](https://www.twitch.tv/blackvslight)
+-[Facebook Gaming](https://www.facebook.com/blackvslight)
+-[Youtube](https://www.youtube.com/channel/UCXnHRyz5zdX2uS0G_0g1U0g)
+-[Periscope](https://www.periscope.tv/blackvslight)
+-[Dlive](https://dlive.tv/blackvslight)
+-[AfreecaTV](https://bj.afreecatv.com/blackvslight)
+-[DailyMotion]()
+-[NimoTV](https://www.nimo.tv/live/1885574055)
+-[TravoTV](https://trovo.live/blackvslight)
+-[Caffeine](https://www.caffeine.tv/blackvslight)
+
