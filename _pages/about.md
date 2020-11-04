@@ -19,7 +19,7 @@ Biography.
 - [PeerTube](https://open.tube/video-channels/blackvslightvideo/videos)
 - [GNUSocial](https://gnusocial.net/blackvslight)
 - [DevART](https://www.deviantart.com/blackvslight)
-- [GitHub](https://github.com/blackvslight)
+- [GitHub](https://blackvslight.github.io/about/)
 
 ## Multistream
 **[Restream.io:](https://restream.io/join/vE0JV)**
