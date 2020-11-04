@@ -9,7 +9,7 @@ Biography.
 ## Links
 - [Discord](https://discord.gg/HzEJWy52sF)
 - [Instagram](https://instagram.com/blackvslight/)
-- [Facebook](https://www.fb.gg/blackvslight)
+- [Facebook](https://www.facebook.com/blackvslight)
 - [Youtube](https://www.youtube.com/channel/UCXnHRyz5zdX2uS0G_0g1U0g)
 - [Twitter](https://www.twitter.com/blackvslight/)
 - [Reddit](https://www.reddit.com/user/blackvslight)
@@ -24,7 +24,7 @@ Biography.
 ## Multistream
 **[Restream.io:](https://restream.io/join/vE0JV)**
 - [Twitch](https://www.twitch.tv/blackvslight)
-- [Facebook Gaming](https://www.facebook.com/blackvslight)
+- [Facebook Gaming](https://www.fb.gg/blackvslight)
 - [Youtube](https://www.youtube.com/channel/UCXnHRyz5zdX2uS0G_0g1U0g)
 - [Periscope](https://www.periscope.tv/blackvslight)
 - [Dlive](https://dlive.tv/blackvslight)
