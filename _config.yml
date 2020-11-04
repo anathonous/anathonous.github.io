@@ -9,10 +9,10 @@ name: BlackvsLight
 author: Black vs Light
 
 # Short bio or description (displayed in the header)
-description: Follow me.
+description: Welcome.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/reverie.png
+avatar: /images/icon.png
 
 #
 # Flags below are optional
@@ -21,15 +21,14 @@ avatar: /images/reverie.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: nathanlkoch@icloud.com
-  facebook: blackvslight
-  flickr:
+  email:
+  facebook:
   github: blackvslight
-  instagram: blackvslight
+  instagram:
   linkedin: 
   pinterest:
   rss: rss
-  twitter: blackvslight
+  twitter: 
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
