@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Biography.
+I do things on the internet, I do things irl. Sometimes I stream, Sometimes I don't. Support my antics. 
 
 ## Links
 - [Discord](https://discord.gg/HzEJWy52sF)
