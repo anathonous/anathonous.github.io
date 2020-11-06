@@ -46,7 +46,7 @@ Canada
 **Digital:**
 - [On Stream](https://streamlabs.com/blackvslight/tip)
 - [Off Stream](https://www.paypal.me/signalsout)
-- Bitcoin BTC: 3QVtvUEfnXPEL23t5NC7wara22V4x4vYtK
+- Bitcoin BTC 3QVtvUEfnXPEL23t5NC7wara22V4x4vYtK
 - USD Coin 0xe1021fe2F5Cc9Ad423fBcCaC8Bfef78AF169fd15
 - Ox ZRX 0xab4CEE4e75D845C2492458E7Ddbc7B2b834e998A
 - Algorand ALGO G2RELB3T3KRFZ7J3GXKOLSY34HNWHX5WUGF2ZQZTA3Q4WIAEK6JR5P55OI
@@ -82,7 +82,7 @@ Canada
 - XRP XRP rw2ciyaNshpHe7bCHo4bRWq6pqqynnWKQg XRP Tag 1081938922
 - Zcash ZEC t1cdeVvGFZUt8SmHFgj3V9zp7pAakxuwHpP
 - district0x DNT 0xe87301c13E198eA1DD272BB5a604B1b7cadbc3b1
-- yearn.finance YFI 0x81991Fc525f9A3E664b71d6E4589EBa6b5b103Db
+- yearn.finance YFI 0x81991Fc525f9A3E664b71d6E4589EBa6b5b103Db  
 **Wishlist:**
 - [Amazon USA](https://www.amazon.com/hz/wishlist/ls/3MCQCQ5U2MMTD?ref_=wl_share)
 - [Amazon CA](https://www.amazon.ca/hz/wishlist/ls/31TU0OV4ZPOP1)
