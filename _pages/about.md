@@ -49,8 +49,10 @@ Canada
   First Century Bank  
   525 Federal Street Bluefield, WV–Bluefield, USA  
   Routing 061120084  
-  Account 4026303388749
-  CHECKING 
+  Account 4026303388749  
+  CHECKING  
+  
+- Interac nathanlkoch@outlook.com
 
 **Digital:**
 - [On Stream](https://streamlabs.com/blackvslight/tip)
