@@ -14,7 +14,7 @@ I do things on the internet, I do things irl. Sometimes I stream, Sometimes I do
 - [GitHub](https://anathonous.github.io/about/)
 
 ## Stream
-  [Livestream:](https://www.anathonous.cf/live/)
+- [Livestream](https://www.anathonous.cf/live/)
 
 ## Donate
 **Mail:**
