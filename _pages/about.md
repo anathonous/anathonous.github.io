@@ -7,32 +7,14 @@ permalink: /about/
 I do things on the internet, I do things irl. Sometimes I stream, Sometimes I don't. Support my antics. 
 
 ## Links
-- [Discord](https://discord.gg/HzEJWy52sF)
-- [Instagram](https://instagram.com/blackvslight/)
-- [Facebook](https://www.facebook.com/blackvslight)
-- [Youtube](https://www.youtube.com/channel/UCXnHRyz5zdX2uS0G_0g1U0g)
-- [Twitter](https://www.twitter.com/blackvslight/)
-- [Reddit](https://www.reddit.com/user/blackvslight)
-- [Pleroma](https://blob.cat/blackvslight)
-- [Mastodon](https://mstdn.social/invite/AxZLzmDK)
-- [PixelFed](https://pixelfed.blob.cat/blackvslight)
-- [PeerTube](https://open.tube/video-channels/blackvslightvideo/videos)
-- [GNUSocial](https://gnusocial.net/blackvslight)
-- [DevART](https://www.deviantart.com/blackvslight)
-- [GitHub](https://blackvslight.github.io/about/)
+- [Instagram](https://instagram.com/anathonous/)
+- [Twitter](https://www.twitter.com/anathonous/)
+- [Reddit](https://www.reddit.com/user/anathonous)
+- [Mastodon](https://mas.to/web/accounts/233051)
+- [GitHub](https://anathonous.github.io/about/)
 
-## Multistream
-**[Restream.io:](https://restream.io/join/vE0JV)**
-- [Twitch](https://www.twitch.tv/blackvslight)
-- [Facebook Gaming](https://www.fb.gg/blackvslight)
-- [Youtube](https://www.youtube.com/channel/UCXnHRyz5zdX2uS0G_0g1U0g)
-- [Periscope](https://www.periscope.tv/blackvslight)
-- [Dlive](https://dlive.tv/blackvslight)
-- [AfreecaTV](https://bj.afreecatv.com/blackvslight)
-- [DailyMotion]()
-- [NimoTV](https://www.nimo.tv/live/1885574055)
-- [TravoTV](https://trovo.live/blackvslight)
-- [Caffeine](https://www.caffeine.tv/blackvslight)
+## Stream
+  [Livestream:](https://www.anathonous.cf/live/)
 
 ## Donate
 **Mail:**
@@ -42,6 +24,8 @@ I do things on the internet, I do things irl. Sometimes I stream, Sometimes I do
 BOX 99900 LR 333 521  
 Canora, Saskatchewan S0A 0E5  
 Canada
+
+- Please provide Tracking Number nathanlkoch@outlook.com
 
 **Bank:**  
   Business Only Transfers
@@ -55,7 +39,7 @@ Canada
 - Interac nathanlkoch@outlook.com
 
 **Digital:**
-- [On Stream](https://streamlabs.com/blackvslight/tip)
+- [On Stream](https://streamlabs.com/anathonous/tip)
 - [Off Stream](https://www.paypal.me/signalsout)
 - Bitcoin BTC 3QVtvUEfnXPEL23t5NC7wara22V4x4vYtK
 - USD Coin 0xe1021fe2F5Cc9Ad423fBcCaC8Bfef78AF169fd15
