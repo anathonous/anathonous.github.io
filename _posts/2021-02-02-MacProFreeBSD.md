@@ -119,7 +119,6 @@ asmc_load="YES"
 
 The clock is horrible off.
 ```
-Code:
 tzsetup  
 Select Yes. Scroll down to bottom and select UTC.
 ```
