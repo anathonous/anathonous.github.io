@@ -10,7 +10,6 @@ permalink: /about/
 - [Instagram](https://instagram.com/anathonous/)
 - [Twitter](https://www.twitter.com/anathonous/)
 - [Reddit](https://www.reddit.com/user/anathonous)
-
 - [Mastodon](https://floss.social/web/accounts/223298)
 - [GitHub](https://anathonous.github.io/about/)
 
