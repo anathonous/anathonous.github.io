@@ -4,7 +4,7 @@ title: FreeBSD on Mac Pro 2006
 categories: [FreeBSD]
 ---
 
-Two years ago I recently installed FreeBSD 12.0 on a MacPro 1,1. Everything should still work on 12.2.
+Two years ago I installed FreeBSD 12.0 on a MacPro 1,1. Everything should still work on 12.2.
 
 Due to the EFI being 32bit I had to use a website and tool to remove EFI functions from the installer.
 (I have since updated my EFI to 2,1)
@@ -99,7 +99,7 @@ You will need to learn how to [build](https://www.freebsd.org/doc/en_US.ISO8859-
 and put them in 
 /usr/src/sys/dev/asmc/
 ```
-You want to make a copy (cp) of the GENERIC kernel. Say cp -r GENERIC MAC in /usr/src/sys/amd64/conf/ and then "make buildkernel KERNCONF=MAC" when compiling.
+You want to make a copy (cp) of the GENERIC kernel config. Say cp -r GENERIC MAC in /usr/src/sys/amd64/conf/ and then "make buildkernel KERNCONF=MAC" when compiling.
 
 Add the following lines to your kernel conf. 
 
