@@ -81,13 +81,13 @@ nvidia-modeset_load="yes"
 linux_load="YES" 
 agp_load="YES"
 ```
-The video driver does act wonky in tty though. It will flash green and pink with the text going garbled and i noticed the text is still very large in tty. Changing you vt will resolve this issue.
+The video driver does act wonky in tty though. It will flash green and pink with the text going garbled and i noticed the text is still very large in tty. Changing your vt will resolve this issue.
 ```
 /boot/loader.conf
 kern.vty=sc
 ```
 
- ## Kernel
+## Kernel
 I get tons of kernel related errors. Apparently it has something to do with the smart battery. You can disable them.
 ```
 /boot/loader.conf 
@@ -95,7 +95,7 @@ debug.acpi.disabled="smbat"
 ```
 
 System Management Controller services are not enabled by default. You will need to compile a kernel with asmc support.
-You will need to lear how to [build](https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/kernelconfig-building.html) a kernel. and download [this](https://svnweb.freebsd.org/base?view=revision&revision=342756) kernel patch.
+You will need to learn how to [build](https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/kernelconfig-building.html) a kernel. and download [this](https://svnweb.freebsd.org/base?view=revision&revision=342756) kernel patch.
 and put them in 
 /usr/src/sys/dev/asmc/
 ```
