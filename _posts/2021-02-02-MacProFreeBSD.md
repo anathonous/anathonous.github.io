@@ -11,7 +11,8 @@ https://mattgadient.com/2016/07/11/linux-dvd-images-and-how-to-for-32-bit-efi-ma
 
 There's a few things I had to configure to get it to work properly and there are still some small things that need to be tuned.
 
-Packages/SRC/Ports (Security)
+## Packages/src/ports (Security)(h3)
+
 ```
 Code:
 Change the word quarterly to latest in /etc/pkg/FreeBSD.conf
@@ -24,7 +25,8 @@ portsnap fetch
 portsnap extract
 portsnap update
 ```
-Intel ucode
+## Intel ucode (h3)
+
 ```
 Code:
 pkg install devcpu-data
@@ -33,7 +35,8 @@ pkg install devcpu-data
 cpu_microcode_load="YES"
 cpu_microcode_name="/boot/firmware/intel-ucode.bin"
 ```
-Firewall
+## Firewall (h3)
+
 ```
 /etc/rc.conf
 pf_enable="YES"
@@ -43,7 +46,7 @@ pf_rules="/etc/pf.conf"
 block in all
 pass out all keep state
 ```
-Audio
+## Audio (h3)
 
 The default audio needs to be enabled and the port output needs to be switched which I changed.
 ```
@@ -60,7 +63,7 @@ Code:
 /etc/rc.conf 
 sndiod_enable="YES"
 ```
-Video
+## Video (h3)
 
 I was able to get the video working by installing the old nvidia driver. The 304 release worked. "Nvidia GeForce 7300GT"
 ```
@@ -86,7 +89,7 @@ agp_load="YES"
 ```
 The video driver does act wonky in tty though. It will flash green and pink with the text going garbled and i noticed the text is still very large in tty. I have previous experience with drm-next-kmod on other intel related graphics cards and know that once its install the text gets smaller and is much more crisp. I would like to know how to do the same on this nvidia card. (I have since learned that using sc over vt will fix this issue)
 
-Kernel
+ ## Kernel (h3)
 
 I get tons of kernel related errors. Apparently it has something to do with the smart battery. You can disable them.
 ```
@@ -118,7 +121,7 @@ device          cpuctl
 and add to /boot/loader.conf
 asmc_load="YES"
 ```
-Time
+## Time (h3)
 
 The clock is horrible off.
 ```
@@ -126,7 +129,10 @@ Code:
 tzsetup  
 Select Yes. Scroll down to bottom and select UTC.
 ```
-FreeBSD Foundation has some great tutorials on installing a working desktop environment as well.
+
+That should be about it.
+
+The FreeBSD Foundation has some great tutorials on installing a working desktop environment as well.
 
 https://www.freebsdfoundation.org/freebsd/how-to-guides/installing-a-desktop-environment-on-freebsd/
 
