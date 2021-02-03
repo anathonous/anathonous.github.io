@@ -4,13 +4,14 @@ title: About
 permalink: /about/
 ---
 
-I do things on the internet, I do things irl. Sometimes I stream, Sometimes I don't. Support my antics. 
-
 ## Links
+- [Web](https://www.anathonous.cf/)
+- [Amurica](https://www.amurica.cf/)
 - [Instagram](https://instagram.com/anathonous/)
 - [Twitter](https://www.twitter.com/anathonous/)
 - [Reddit](https://www.reddit.com/user/anathonous)
-- [Mastodon](https://mas.to/web/accounts/233051)
+
+- [Mastodon](https://floss.social/web/accounts/223298)
 - [GitHub](https://anathonous.github.io/about/)
 
 ## Stream
