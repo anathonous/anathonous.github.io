@@ -9,7 +9,7 @@ Two years ago I recently installed FreeBSD 12.0 on a MacPro 1,1. Everything shou
 Due to the EFI being 32bit I had to use a website and tool to remove EFI functions from the installer.
 (I have since updated my EFI to 2,1)
 
-(https://mattgadient.com/2016/07/11/linux-dvd-images-and-how-to-for-32-bit-efi-macs-late-2006-models/) Worked great for creating an ISO. Use MBR bootloader during install. Be sure to install src and ports pkg.
+This [tool](https://mattgadient.com/2016/07/11/linux-dvd-images-and-how-to-for-32-bit-efi-macs-late-2006-models/) worked great for creating an ISO. Use MBR bootloader during install. Be sure to install src and ports pkg.
 
 There's a few things you have to configure to get it to work properly and there are still some small things that need to be tuned.
 
@@ -93,14 +93,13 @@ I get tons of kernel related errors. Apparently it has something to do with the 
 /boot/loader.conf 
 debug.acpi.disabled="smbat"
 ```
-System Management Controller services are not enabled by default. You will need to compile a kernel with asmc support.
-```
-(https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/kernelconfig-building.html)
 
+### System Management Controller services are not enabled by default. You will need to compile a kernel with asmc support.
+[How to build Kernel config](https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/kernelconfig-building.html)
 You will need to download (https://svnweb.freebsd.org/base?view=revision&revision=342756)
 and put them in 
 /usr/src/sys/dev/asmc/
-
+```
 You want to make a copy (cp) of the GENERIC kernel. Say cp -r GENERIC MAC in /usr/src/sys/amd64/conf/ and then "make buildkernel KERNCONF=MAC" when compiling.
 
 Add the following lines to your kernel conf. 
@@ -125,8 +124,8 @@ Select Yes. Scroll down to bottom and select UTC.
 
 That should be about it.
 
-The FreeBSD Foundation has some great tutorials on installing a working desktop environment as well.
+The FreeBSD Foundation has some great [tutorial](https://www.freebsdfoundation.org/freebsd/how-to-guides/installing-a-desktop-environment-on-freebsd/) on installing a working desktop environment as well.
 
-(https://www.freebsdfoundation.org/freebsd/how-to-guides/installing-a-desktop-environment-on-freebsd/)
+
 
 
