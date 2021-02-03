@@ -13,7 +13,7 @@ Due to the EFI being 32bit I had to use a website and tool to remove EFI functio
 
 There's a few things you have to configure to get it to work properly and there are still some small things that need to be tuned.
 
-## Packages/src/ports (Security)(h3)
+## Packages/src/ports (Security)
 ```
 Change the word quarterly to latest in /etc/pkg/FreeBSD.conf
 Then:
@@ -26,7 +26,7 @@ portsnap extract
 portsnap update
 ```
 
-## Intel ucode (h3)
+## Intel ucode
 ```
 pkg install devcpu-data
 
@@ -35,7 +35,7 @@ cpu_microcode_load="YES"
 cpu_microcode_name="/boot/firmware/intel-ucode.bin"
 ```
 
-## Firewall (h3)
+## Firewall
 ```
 /etc/rc.conf
 pf_enable="YES"
@@ -46,7 +46,7 @@ block in all
 pass out all keep state
 ```
 
-## Audio (h3)
+## Audio
 The default audio needs to be enabled and the port output needs to be switched. This will change it for line out on the back.
 ```
 /etc/sysctl.conf 
@@ -60,7 +60,7 @@ dev.hdaa.0.nid21_config="as=4 seq=15"
 sndiod_enable="YES"
 ```
 
-## Video (h3)
+## Video
 I was able to get the video working by installing the old nvidia driver. The 304 release worked. "Nvidia GeForce 7300GT"
 ```
 pkg install nvidia-driver-304 
@@ -87,7 +87,7 @@ The video driver does act wonky in tty though. It will flash green and pink with
 kern.vty=sc
 ```
 
- ## Kernel (h3)
+ ## Kernel
 I get tons of kernel related errors. Apparently it has something to do with the smart battery. You can disable them.
 ```
 /boot/loader.conf 
@@ -115,7 +115,7 @@ device          cpuctl
 and add to /boot/loader.conf
 asmc_load="YES"
 ```
-## Time (h3)
+## Time
 
 The clock is horrible off.
 ```
