@@ -94,9 +94,8 @@ I get tons of kernel related errors. Apparently it has something to do with the 
 debug.acpi.disabled="smbat"
 ```
 
-### System Management Controller services are not enabled by default. You will need to compile a kernel with asmc support.
-[How to build Kernel config](https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/kernelconfig-building.html)
-You will need to download (https://svnweb.freebsd.org/base?view=revision&revision=342756)
+System Management Controller services are not enabled by default. You will need to compile a kernel with asmc support.
+You will need to lear how to [build](https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/kernelconfig-building.html) a kernel. and download [this](https://svnweb.freebsd.org/base?view=revision&revision=342756) kernel patch.
 and put them in 
 /usr/src/sys/dev/asmc/
 ```
