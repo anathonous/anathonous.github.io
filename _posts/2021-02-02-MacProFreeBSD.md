@@ -84,7 +84,7 @@ nvidia-modeset_load="yes"
 linux_load="YES" 
 agp_load="YES"
 ```
-The video driver does act wonky in tty though. It will flash green and pink with the text going garbled and i noticed the text is still very large in tty. I have previous experience with drm-next-kmod on other intel related graphics cards and know that once its install the text gets smaller and is much more crisp. I would like to know how to do the same on this nvidia card.
+The video driver does act wonky in tty though. It will flash green and pink with the text going garbled and i noticed the text is still very large in tty. I have previous experience with drm-next-kmod on other intel related graphics cards and know that once its install the text gets smaller and is much more crisp. I would like to know how to do the same on this nvidia card. (I have since learned that using sc over vt will fix this issue)
 
 Kernel
 
