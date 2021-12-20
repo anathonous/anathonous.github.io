@@ -17,15 +17,6 @@ permalink: /about/
 - [Livestream](https://www.anathonous.cf/live/)
 
 ## Donate
-**Mail:**
-
-- Nathan Koch  
-304 MAIN STREET  
-BOX 99900 LR 333 521  
-Canora, Saskatchewan S0A 0E5  
-Canada
-
-- Please provide Tracking Number nathanlkoch@outlook.com
 
 **Bank:**  
   Business Only Transfers
